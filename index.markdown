@@ -4,7 +4,5 @@
 
 layout: home
 ---
-![funds-raised-so-far](http://www.coolfundraisingideas.net/thermometer/thermometer.php?currency=dollar&goal=600000&raised=51635&color=blue&size=medium)
-
-
-![tokens-returned-so-far](http://www.coolfundraisingideas.net/thermometer/thermometer.php?currency=none&goal=600&raised=0&color=green&size=medium)
+Funds Raised So Far ![funds-raised-so-far](http://www.coolfundraisingideas.net/thermometer/thermometer.php?currency=dollar&goal=600000&raised=51635&color=blue&size=medium)
+Tokens Returned So Far ![tokens-returned-so-far](http://www.coolfundraisingideas.net/thermometer/thermometer.php?currency=none&goal=600&raised=0&color=green&size=medium)
