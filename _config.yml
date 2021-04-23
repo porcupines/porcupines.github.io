@@ -21,11 +21,9 @@
 title: Emergent Order, LLC
 email: info@emergentorder.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Emergent Order LLC (EO) has been created for the express purpose of managing donations 
-  for the acquisition of, and improvements to, real estate for the exclusive benefit of 
-  the Fraternal Order of Porcupines (FOP). All donations to EO will go directly to the 
-  acquisition of real estate, improvements of purchased real estate, and the operational costs 
-  associated with purchased real estate. 
+  Emergent Order LLC (EO) is a 501.c7 organization established for the purpose of managing 
+  and acquiring real estate for the sole benefit of the Fraternal Order of Porcupines, based
+  out of Manchester, NH.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
