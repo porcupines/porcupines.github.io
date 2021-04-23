@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![funds-raised-so-far](http://www.coolfundraisingideas.net/thermometer/thermometer.php?currency=dollar&goal=600000&raised=52165&color=red&size=large){:class="img-responsive"}
