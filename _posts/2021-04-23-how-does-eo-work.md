@@ -1,5 +1,8 @@
 ---
 layout: post
+title:  "How Does EO Work?"
+date:   2021-04-23 16:44:00 -0400
+categories: eo update
 ---
 
 Ermergent Order LLC (EO) is raising funds to purchase real estate for the sole use and benefit of the 
