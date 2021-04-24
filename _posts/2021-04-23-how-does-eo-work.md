@@ -25,7 +25,7 @@ a method for donors to potentially recover their donations later while still ben
 
 EO will be creating 600 tokens as a tracking mechanism for large donors. For every $1000 donated, EO will offer the donor 1 token. 
 EO will fund the acquisition and management of real estate via these donations. The tokens are NFTs based upon the Bitcoin Cash 
-lockchain. Upon EO purchasing real estate, the FOP will have the exclusive option to rent that real estate
+blockchain. Upon EO purchasing real estate, the FOP will have the exclusive option to rent that real estate
 and operate within it. The FOP will pay rent to EO in the form of cash but EO may opt to allow the return of tokens to EO in lieu of rent.
 The goal of EO, is to facilitate the return of all 600 tokens it issues as soon as possible. *It is in the FOP's best interest to 
 facilitate the return of EO tokens to EO because when all tokens have been recovered (that is the cost of the real estate has recovered
