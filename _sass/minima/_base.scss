@@ -230,11 +230,9 @@ pre {
  */
 table {
   margin-bottom: $spacing-unit;
-  width: 50%;
-  text-align: $table-text-align;
+  width: 75%;
+  text-align: center;
   color: lighten($text-color, 18%);
-  border-collapse: collapse;
-  border: 5px solid $grey-color-light;
   tr {
     &:nth-child(even) {
       background-color: lighten($grey-color-light, 6%);
@@ -242,13 +240,13 @@ table {
   }
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
+	/* border: 1px solid $grey-color-light; */
+	/* text-align: center; */
+	align: center;
   }
   th {
     background-color: lighten($grey-color-light, 3%);
-    border: 1px solid darken($grey-color-light, 4%);
-    border-bottom-color: darken($grey-color-light, 12%);
   }
   td {
-    border: 1px solid $grey-color-light;
   }
 }
