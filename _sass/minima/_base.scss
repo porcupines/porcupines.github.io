@@ -230,11 +230,11 @@ pre {
  */
 table {
   margin-bottom: $spacing-unit;
-  width: 100%;
+  width: 50%;
   text-align: $table-text-align;
   color: lighten($text-color, 18%);
   border-collapse: collapse;
-  border: 1px solid $grey-color-light;
+  border: 5px solid $grey-color-light;
   tr {
     &:nth-child(even) {
       background-color: lighten($grey-color-light, 6%);
