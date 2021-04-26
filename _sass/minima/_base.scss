@@ -232,10 +232,10 @@ table {
   margin-bottom: $spacing-unit;
   width: 100%;
   text-align: center;
-  color: lighten($text-color, 18%);
+  /* color: lighten($text-color, 18%); */
   tr {
     &:nth-child(even) {
-      background-color: lighten($grey-color-light, 6%);
+      /*background-color: lighten($grey-color-light, 6%); */
     }
   }
   th, td {
@@ -245,7 +245,7 @@ table {
 	align: center;
   }
   th {
-    background-color: lighten($grey-color-light, 3%);
+    /* background-color: lighten($grey-color-light, 3%); */
   }
   td {
   }
