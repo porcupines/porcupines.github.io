@@ -5,7 +5,7 @@ date:   2021-04-23 16:44:00 -0400
 categories: eo update
 ---
 
-Ermergent Order LLC (EO) is raising funds to purchase real estate for the sole use and benefit of the 
+Ermergent Order Ltd (EO) is raising funds to purchase real estate for the sole use and benefit of the 
 Fraternal Order of Porcupines (FOP), based out of Manchester, New Hampshire. Upon purchasing real estate, EO
 will assume management of that real estate and rent it to the FOP exclusively. This ensures that the FOP 
 will have a permanent facility (or facilities) for the benefit of the liberty community. 
