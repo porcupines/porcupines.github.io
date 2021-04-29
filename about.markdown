@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Emergent Order, LLC
+title: About Emergent Order Ltd
 permalink: /about/
 ---
 
