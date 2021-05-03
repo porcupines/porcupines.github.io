@@ -9,3 +9,5 @@ It's very simple. When you donate $1000 or more to Save the Quill, you will be o
 2) You can donate to EO directly. Simply send an email to [info@emergentorder.io](mailto:info@emergentorder.com) and one of our volunteers will contact you to make arrangements to accept the donation and, once received, to arrange delivery of your QUILL token(s), if applicable.
 
 3) We are in the process of setting up an EO PayPal account and will update this as soon as its ready. Upon receiving a donation, one of our volunteers will contact you to make arrangements to receive your QUILL token(s), if applicable.
+
+To hold you Quill tokens, you will need an SLP-enabled wallet -  the Bitcoin.com mobile wallet and Electron Cash SLP wallet have been tested and work well.
