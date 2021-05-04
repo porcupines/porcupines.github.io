@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "How Do You Get QUILL Tokens?"
+date:   2021-05-04 16:44:00 -0400
+categories: eo update
+---
+
 # How do you get QUILL tokens?
 
 It's very simple. When you donate $1000 or more to Save the Quill, you will be offered the oppountity to receive one QUILL token for each $1000 donated. There are a variety of methods to donate:
