@@ -34,7 +34,7 @@ by EO,) EO is obligated to donate it's real estate assets to the FOP. Remember, 
 Donors have two options when donating - to receive one token per $1000 donated, or to opt to not receive the token(s), which is 
 functionally equivalent to a straight donation, as EO will retain the tokens and mark those as returned immediately. Because EO
 will be receiving funds from the rental of the property by the FOP, EO will periodically run a Token Buyback Auction (TBBA). 
-Individual token holders can opt to have their tokens bought back at auction using a reverse auction mehtodology -  that is, the 
+Individual token holders can opt to have their tokens bought back at auction using a reverse auction methodology -  that is, the 
 lowest bidder wins. The maximum amount that EO will ever pay is $1100 per token, but token holders have the option to auction their 
 token(s) back at any price below the maximum amount. 
 
