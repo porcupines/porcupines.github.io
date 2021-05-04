@@ -4,7 +4,7 @@ title:  "EO Policy Documents Published"
 date:   2021-04-23 15:01:56 -0400
 categories: eo update
 ---
-Emergent Order Ltd has published its policy documents related to the token offering, tolken holder agreement, and the token auction policies. The official policies can always be seen below and are also found [here].
+Emergent Order Ltd has published its policy documents related to the token offering, tolken holder agreement, and the token auction policies. The official policies can always be shown below and are also found [here].
 
 The policy document notarized by notary.bitcoin.com can found via this [link]. The document hash shown in the QUILL token should be: 
 
