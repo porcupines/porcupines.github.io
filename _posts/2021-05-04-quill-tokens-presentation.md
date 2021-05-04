@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why You Should Support the FOP"
+title:  "Why You Should Support the FOP and EO"
 date:   2021-05-04 09:31:00 -0400
 categories: eo update
 ---
