@@ -4,8 +4,8 @@
 
 layout: home
 ---
-**[Donate](https://www.gofundme.com/f/SaveTheQuill) today to the EO fundraiser for the FOP at [https://www.gofundme.com/f/SaveTheQuill](https://www.gofundme.com/f/SaveTheQuill)!**
-Donations above $1000 will have the opportunity to receive QUILL tokens. [Here's how!](https://emergentorder.io/eo/update/2021/05/04/how-to-get-QUILL-tokens.html)
+### [Donate](https://www.gofundme.com/f/SaveTheQuill) today to the EO fundraiser for the FOP at [https://www.gofundme.com/f/SaveTheQuill](https://www.gofundme.com/f/SaveTheQuill)!**
+##### Donations above $1000 will have the opportunity to receive QUILL tokens. [Here's how!](https://emergentorder.io/eo/update/2021/05/04/how-to-get-QUILL-tokens.html)
 
 
 **Funds Raised So Far** | **Tokens Returned So Far**
