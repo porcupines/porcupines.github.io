@@ -21,9 +21,8 @@
 title: Emergent Order Ltd
 email: info@emergentorder.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Emergent Order Ltd (EO) is a registered non-profit organization in New Hampshire established for the purpose of managing 
-  and acquiring real estate for the sole benefit of the Fraternal Order of Porcupines, based
-  out of Manchester, NH.
+  Emergent Order Ltd (EO) is a registered non-profit organization in the state of New Hampshire established for the purpose of managing 
+  and acquiring real estate for the benefit of selected organizations. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
