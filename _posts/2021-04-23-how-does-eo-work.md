@@ -5,8 +5,9 @@ date:   2021-04-23 16:44:00 -0400
 categories: eo update
 ---
 
-Ermergent Order Ltd (EO) is raising funds to purchase real estate for the sole use and benefit of the 
-Fraternal Order of Porcupines (FOP), based out of Manchester, New Hampshire. Upon purchasing real estate, EO
+Ermergent Order Ltd (EO) is raising funds to purchase real estate for the sole use and benefit of slected organizations. 
+Our first selected organization is the 
+Fraternal Order of Porcupines (FOP), based out of Manchester, New Hampshire, so we'll use the FOP as our example. Upon purchasing real estate, EO
 will assume management of that real estate and rent it to the FOP exclusively. This ensures that the FOP 
 will have a permanent facility (or facilities) for the benefit of the liberty community. 
 
@@ -15,12 +16,12 @@ events, meetups, and other community-driven events. Even though it is a private 
 donates the use of its space to various liberty organizations and individuals for the purpose of promoting 
 liberty-oriented organizations, individuals, and events.
 
-EO has been created to ensure that FOP mission continues to have facilities for the foreseeable future by 
+EO has been created to ensure that organizations like the FOP continues to have facilities for the foreseeable future by 
 coordinating donations and giving supporters of both EO and the FOP the opportunity to recoup their donations. 
 
 This is how it works:
 
-**The tl;dr version**: EO was formed to guarantee the continued operations of the FOP now and into the foreseeable future. EO is creating
+**The tl;dr version**: EO was formed to guarantee the continued operations organizations like the FOP now and into the foreseeable future. EO is creating
 a method for donors to potentially recover their donations later while still benefiting the FOP now. 
 
 EO will be creating 600 tokens as a tracking mechanism for large donors. For every $1000 donated, EO will offer the donor 1 token. 
