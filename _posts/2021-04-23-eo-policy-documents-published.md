@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "EO Policy Documents Published"
+title:  "FOP Fundraiser - EO Policy Documents Published"
 date:   2021-04-23 15:01:56 -0400
 categories: eo update
 ---
