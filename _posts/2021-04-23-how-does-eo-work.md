@@ -21,9 +21,6 @@ coordinating donations and giving supporters of both EO and the FOP the opportun
 
 This is how it works:
 
-**The tl;dr version**: EO was formed to guarantee the continued operations organizations like the FOP now and into the foreseeable future. EO is creating
-a method for donors to potentially recover their donations later while still benefiting the FOP now. 
-
 EO will be creating 600 tokens as a tracking mechanism for large donors. For every $1000 donated, EO will offer the donor 1 token. 
 EO will fund the acquisition and management of real estate via these donations. The tokens are NFTs based upon the Bitcoin Cash 
 blockchain. Upon EO purchasing real estate, the FOP will have the exclusive option to rent that real estate
