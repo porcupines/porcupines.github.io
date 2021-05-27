@@ -17,4 +17,4 @@ It's very simple. When you donate $1000 or more to Save the Quill, you will be o
 <br />
 <br />
 
-To hold you Quill tokens, you will need an SLP-enabled wallet -  the Bitcoin.com mobile wallet and Electron Cash SLP wallet have been tested and work well.
+To hold your Quill tokens, you will need an SLP-enabled wallet -  the Bitcoin.com mobile wallet and Electron Cash SLP wallet have been tested and work well.
