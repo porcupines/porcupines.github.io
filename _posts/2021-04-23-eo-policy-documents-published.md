@@ -7,7 +7,7 @@ categories: eo update
 Emergent Order Ltd has published its policy documents related to the token offering, tolken holder agreement, and the token auction policies. The official policies are shown below and are also found [here].
 
 ### Token Information
-<b>Token ID:</b> 39de180ead5902fc65a1cefd92c818cf2d758b5c4261013304955283a5d2a626
+<b>Token ID:</b> [39de180ead5902fc65a1cefd92c818cf2d758b5c4261013304955283a5d2a626]
 <br />
 <b>Policy Document Hash:</b> ab60cfe3863d2eee92350ea71ad788b7a37642645361fe8147a532513d7fa649
 <br /><br />
@@ -19,3 +19,4 @@ The policy document notarized by notary.bitcoin.com can found via this [link].
 
 [here]: https://emergentorder.io/EO_Policies.html
 [link]: https://emergentorder.io/Emergent%20Order%20LLC%20Token%20Offering%20Guide.pdf
+[39de180ead5902fc65a1cefd92c818cf2d758b5c4261013304955283a5d2a626]: https://explorer.bitcoin.com/bch/token/39de180ead5902fc65a1cefd92c818cf2d758b5c4261013304955283a5d2a626
