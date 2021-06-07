@@ -10,6 +10,7 @@ The policy document notarized by notary.bitcoin.com can found via this [link].
 <br />
 ### Token Information
 Token ID: 39de180ead5902fc65a1cefd92c818cf2d758b5c4261013304955283a5d2a626
+<br />
 Policy Document Hash: ab60cfe3863d2eee92350ea71ad788b7a37642645361fe8147a532513d7fa649
 <br />
 <br/>
