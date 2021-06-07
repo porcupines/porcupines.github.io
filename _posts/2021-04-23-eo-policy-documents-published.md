@@ -4,7 +4,7 @@ title:  "FOP Fundraiser - EO Policy Documents Published"
 date:   2021-04-23 15:01:56 -0400
 categories: eo update
 ---
-Emergent Order Ltd has published its policy documents related to the token offering, tolken holder agreement, and the token auction policies. The official policies are shown below and are also found [here].
+Emergent Order Ltd has published its policy documents related to the token offering, token holder agreement, and the token auction policies. The official policies are shown below and are also found [here].
 
 ### Token Information
 <b>Token ID:</b> [39de180ead5902fc65a1cefd92c818cf2d758b5c4261013304955283a5d2a626]
