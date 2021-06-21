@@ -5,10 +5,6 @@
 layout: home
 ---
 
-# How To Save The Quill
-
-* * *
-
 #### 1. [Donate](https://www.gofundme.com/f/SaveTheQuill) any amount to the EO GoFundMe fundraiser for the FOP at <https://www.gofundme.com/f/SaveTheQuill>!
 
 #### 2. Make a low interest rate loan by buying QUILL Tokens which will be repurchased at 110%. [Here's how!](https://emergentorder.io/eo/update/2021/05/04/how-to-get-QUILL-tokens.html)
