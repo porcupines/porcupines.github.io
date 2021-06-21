@@ -4,9 +4,25 @@
 
 layout: home
 ---
-**[Donate](https://www.gofundme.com/f/SaveTheQuill) today to the EO fundraiser for the FOP at [https://www.gofundme.com/f/SaveTheQuill](https://www.gofundme.com/f/SaveTheQuill)!**
-Donations above $1000 will have the opportunity to receive QUILL tokens. [Here's how!](https://emergentorder.io/eo/update/2021/05/04/how-to-get-QUILL-tokens.html)
 
+# How To Save The Quill
 
-**Funds Raised So Far** | **Tokens Returned So Far**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![funds-raised-so-far](https://www.coolfundraisingideas.net/thermometer/thermometer.php?currency=dollar&goal=600000&raised=136637&color=blue&size=medium) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tokens-returned-so-far](https://www.coolfundraisingideas.net/thermometer/thermometer.php?currency=none&goal=600&raised=0&color=green&size=medium)
+* * *
+
+#### 1. [Donate](https://www.gofundme.com/f/SaveTheQuill) any amount to the EO GoFundMe fundraiser for the FOP at <https://www.gofundme.com/f/SaveTheQuill>!
+
+#### 2. Make a low interest rate loan by buying QUILL Tokens which will be repurchased at 110%. [Here's how!](https://emergentorder.io/eo/update/2021/05/04/how-to-get-QUILL-tokens.html)
+
+> Donations above $1000 are eligible to receive QUILL Tokens
+
+#### 3. Buy a Quill Lifetime membership!  [Contact the FOP!](mailto:info@thequill.club)
+
+* * *
+
+**Funds Raised So Far**
+
+<!--| **Tokens Returned So Far**-->
+
+        ![funds-raised-so-far](https://www.coolfundraisingideas.net/thermometer/thermometer.php?currency=dollar&goal=600000&raised=136637&color=blue&size=medium)
+
+<!--!| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[tokens-returned-so-far](https://www.coolfundraisingideas.net/thermometer/thermometer.php?currency=none&goal=600&raised=0&color=green&size=medium)-->
