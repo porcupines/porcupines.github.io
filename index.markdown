@@ -6,6 +6,7 @@ layout: home
 ---
 #### 3 Ways to Help Save The Quill
 ***
+&nbsp;
 #### 1. [Donate](https://www.gofundme.com/f/SaveTheQuill) any amount to the EO GoFundMe fundraiser for the FOP at <https://www.gofundme.com/f/SaveTheQuill>!
 
 OR
@@ -19,7 +20,7 @@ OR
 #### 3. Buy a Quill Lifetime membership!  [Contact the FOP!](mailto:info@thequill.club)
 
 * * *
-
+&nbsp;
 **Funds Raised So Far**
 
 <!--| **Tokens Returned So Far**-->
