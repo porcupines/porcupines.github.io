@@ -65,4 +65,4 @@ This flow chart describes how it will work.
 
 
 
-![Reverse Auction](../simplified_workflow.JPG)
+![Reverse Auction](assets/simplified_workflow.JPG)
