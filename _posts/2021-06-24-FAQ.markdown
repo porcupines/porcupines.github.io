@@ -63,4 +63,4 @@ This flow chart describes how it will work.
 
 
 
-![Reverse Auction](https://drive.google.com/file/d/1h99ISOAdT3v3gXZxLnSYBqlHH2i879f7)
+![Reverse Auction](../simplified_workflow.JPG)
