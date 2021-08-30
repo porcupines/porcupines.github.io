@@ -25,6 +25,6 @@ OR
 
 <!--| **Tokens Returned So Far**-->
 
-        ![funds-raised-so-far](https://www.coolfundraisingideas.net/thermometer/thermometer.php?currency=dollar&goal=600000&raised=153528&color=blue&size=medium)
+        ![funds-raised-so-far](https://www.coolfundraisingideas.net/thermometer/thermometer.php?currency=dollar&goal=600000&raised=195353&color=blue&size=medium)
 
 <!--!| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[tokens-returned-so-far](https://www.coolfundraisingideas.net/thermometer/thermometer.php?currency=none&goal=600&raised=0&color=green&size=medium)-->
